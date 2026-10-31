@@ -22,7 +22,7 @@ user's own Fingerprint account (no third-party/prod traffic).
 | Key | Type | Role |
 |---|---|---|
 | `bYngJqyRNqwrfbXptlan` | 20-char public browser key | embedded in page, loads agent from `fpjscdn.net/v4/<key>` |
-| `UdfnLph…hY=` | 44-char base64 (32B) | server/secret API key (not used client-side) |
+| `<44-char secret>` | 44-char base64 (32B) | server/secret API key (redacted; not used client-side) |
 
 Live flow (all observed; API calls to the user's own account):
 
