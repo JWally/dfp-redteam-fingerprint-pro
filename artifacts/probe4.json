@@ -1,0 +1,31 @@
+{
+  "r": {
+    "exports": [
+      "handleAgentData",
+      "isFingerprintError",
+      "start",
+      "withoutDefault"
+    ],
+    "types": {
+      "handleAgentData": "function",
+      "isFingerprintError": "function",
+      "start": "function",
+      "withoutDefault": "function"
+    },
+    "startRes": "object",
+    "startVal": "[object Object]"
+  },
+  "posts": [],
+  "requests": [
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://fpjscdn.net/v4/bYngJqyRNqwrfbXptlan"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://api.fpjs.io/xridvya/qAo6p?q=bYngJqyRNqwrfbXptlan"
+    }
+  ]
+}

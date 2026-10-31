@@ -1,0 +1,22 @@
+{
+  "r": {
+    "keys": [
+      "event_id",
+      "sealed_result",
+      "visitor_id",
+      "suspect_score"
+    ]
+  },
+  "resps": [
+    {
+      "url": "https://api.fpjs.io/xridvya/qAo6p?q=bYngJqyRNqwrfbXptlan",
+      "status": 200,
+      "body": "NUKdI57wVb/qQeZb6EatdGhIhMzdSid8iIvm1NmLOR3B1bjbiVnOyW+omsEtQxaDJr7W3mWy5myo6z5fPRMpg79wqHRjlgo="
+    },
+    {
+      "url": "https://api.fpjs.io/?ci=js/4.1.6&q=bYngJqyRNqwrfbXptlan",
+      "status": 200,
+      "body": "{\"version\":\"4\",\"event_id\":\"1793453774007.GaLLRN\",\"sealed_result\":null,\"visitor_id\":\"SO22bXJzkmCItm0BYYzJ\",\"suspect_score\":37,\"internal\":\"5+r0HoXeryy0/I1k5Fi6aCu579CTjypIr4MqdRpJ/spkSx84VAzKOSQuHoxnSc7uE+6dg5fg9CJC02uVXt4miVfbmfDufKhP+j6v9oLKKrFN7Dn5o9LNO5Fv7gS84YbPPOdW0W6fz7vmbq9Jy2SIsqLGOa1wvT7u+IataJxkuRKs26qhKLgX/yOJ66blDphiujiL/4XbJu1U7HiuqoDgO+9VygbmpNK5fLBJ/T698JP0KrdJ5yT5o6vIIw==\"}"
+    }
+  ]
+}

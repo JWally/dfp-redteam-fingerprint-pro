@@ -1,0 +1,40 @@
+{
+  "r": {
+    "agentKeys": [
+      "get",
+      "collect"
+    ],
+    "err": "FingerprintError: Can't parse the backend response. Make sure the proper endpoints are used."
+  },
+  "posts": [
+    {
+      "url": "https://api.fpjs.io/xridvya/qAo6p?q=bYngJqyRNqwrfbXptlan [RESP]",
+      "postData": "{\"requestId\":\"local-1793453567870\",\"visitorId\":\"local-vid-0000\",\"confidence\":{\"score\":1},\"products\":{}}"
+    },
+    {
+      "url": "https://api.fpjs.io/?ci=js/4.1.6&q=bYngJqyRNqwrfbXptlan",
+      "postData": "]`k^\u001cZ#mC/�����9�-�DC䦤Jo�!C�\u001b����\u001dA\u0013\u0000X��X�a&��\u0015η��\f�\u0011\u0016�|�\u0003\b����\n��j��\u001c?S}�b?c�#��2FEƏ��b�o^�ާ���\u0019�\u001a�or\u001f\u0012ʹ@a�Ã,����$%`�H�0�*[bEM�\u0013��܁����\u000b�\u000f�\u001f��!����\u0005\u0006�<���\u000e�y��\u0000\u0016�T\u0004\b<{�7���\u0001�9h\u0016�cQB������\u001c���f7���2�k�A�\u001b�W2\u0019ܴ�ɍn\u00112�Q\r�\u000bt���8�Ā\b�(i:!\u001e\t��L5�[-i���\u000f��~\u0013���8H�\u0004�\u0006����ZZ�^�\u0002Ep\u0003\u0012Dq�4>\u0011o:=����0�i�y��:�\u001f8�^}\r��-��:��I%�\u001c\u0014\u0003��Ĳ��(�\u001d6�Ƭ�sZ8w��ԍ�1�1³D\u001b�\"tslQ'��h^�\u0011�\t\u0014\u0014\u0016U��`\u001f����\u0000$̈́F\u001e�:�}\"1&��K$\u001d7챞��C0k��G[�� �Թ�:�\"\u001a��q��\u0007*xW\\�G��{��@��#�E����rR/�\u001ez�\u00112��\"7��X�<d�6�$݃t��rs�\u0013�O�Y���ښ�0\u0002\u000eh��\u0000\"��}\u0007��VE\n�Y���ܤnF�f�5.\u001dI�m�;Q#r��\u001aDx��|���}ˢ\u000f\u0015Ì���P���\u0003��/\u0012\u0014ŴM�\\6�YJ�9\u0006\u0015\u000f:.~�UH\u0018�$�*�\u001cz�\n�M��\u001e����G�\u0006�,��2d(�_PA6,3,�qN\u001aɊMJ��n�Y�_8\\0A��J7�=\u0000��\u0011A{���[~�s���]��oػ{�\nfm� 9-uvID�\u0001�����.�_ʏu@R�e���*.��`$�}\u001bWS����\u0015�*��R�sKoeh�+��\nX\tH]\u0013�7��e\u0003O1\u0011j����sjU��$W�g�\u000b>:��S)~���.�\u001b�3gH��_M�Ι�����`�*YZ4R���E=����!9G[`HO!�b�8e�\t��X���2��/?�3c���N��\u0013�\u0017�\u0013�q��(\u0006�a�4}��,��|��\u0004k�H��gƇVX�\u000e���\u0015>K��A���\u0004\u0000.ڎ>\u000f��\u0011o�1�8-�X%զ\u0014\u0015�\nNo��ˊf\u000eR�Y�EO'\"�����J\n)\u0007[�fK'\"c��0s�e�M��yA���^��\u000fU\u001e\u001c�z\u0005|Gd/P���V��4@y\u0004�ػe��5\u0018c�),S�\u0004/���M_�\u0015�@��˲�Y����\u0011J\u001e/\\a�\u0010\u0016q���Q|n\u0001�Z`\u0003(�{.�Xv\u0001�k��>������>4;F��y���~�^㈒�\fz�o��8G�rM��?�:���c���\"�\u0015L�6\u0012�T�Bc�����\t\u0002a���*��(�9��4_�W�`\u0017�l�\u0002B��V��P\u0011�!1\b�\u0016@�W2��\u0011\nT� \u0002�A\u001cCi��Lm�JX&�{VH�%c֋��\u0010�k&��e�V���\\P)\u0015R\r.ze>�hK\u0006�,L��Cق��|\u0011��R\u0019�Z\b�\b\u001d\u0001~\bk�I$Z\u0016������u��\u001c�-Z\u0003+��7�-�*\"�4��W7!����ѮV����`\u001eg���3�t\u0001Gc��Ŵ�n�!����M��l2*\u0007�IR3'h\u000eL�\u001f�[���\u00014�H&����+c2��G2���?��\u0015�ѫT8d6�]�\u0012���ʭ,�����\u0000�G��r�^��?�]oT�S��ki\u001f�d>��*c%�R\n�\\yϟ��8�\u0002�2iϊ�\u0017r@�W\u000b\u0000w�NO\u001f�=\rl��:MM\t��j�MI��dQ�H�yﺖ��\u0015�\f���=.\b\u0017��\u0013�Y�Pt��\u0003\u000eV@\u0014�r�vخ�Q\f\fb\u000fv@I<@�b�A;�R&\u0014\nK֚��TB�6��Y��8�3m^�@��򆼆\u0000Ճ\u0013+$�^�48B��o˝ \u0018���|�O�\u000eAs^�Ŭ5x��Oѝ\u001a,�\u0015�j��� �AuuV4G^�;�\u001f\u000b36�C﹅�Q�j���g<\u000br=�B�W�T��\r�_*��vZ�����%\u001f���$=�\u0011�\u0016CƩ����\f\u001d�b�<\u001a='�\u001d\f�,�3�c��^�G\u0010ZB�\u000f�9Sq��[�\u001e�L,��\u0012��.�g��|�\u001fR<���k�~��fw��[tb��0��áb�L�V�Жq'~�h�\r'\n�!>Ȏ����K��:\u001d�v8�\b\u001f\"%��Ry\u0018\u001d#���� Rfg:��B�6\u0015�\u00173ݗ|_\u001bN>,O��-�S-\u000fwp�gj��@U9�i\u0015\u0007��䬑\u001cx*]�i��(j)6o��e�\u001f'\u001a\u0016�9\u0016�ڡK \u001e�\u001eӎڦ��)�ASh\u0004\u0016N3�nn%KNf[c�e�A\u001c��i�ď�_R�+_\u0018���o���L����Z��Dю��\u0014��2���l��k�B\\8��e\u0014\u001cs-V.вJ)\u0014\b�֨�}\u0015@���\u0004ñ���?��W��bA�\u0004�{|B\u0016FW'˧c��Ԗ�\u0011_��\n!:\u0005\"|�\u0018��ˍ�+\u0002�\u0010�$�<�\u0011Is�L��\u0007mx��\r>�=�[�̏��\fެ�����\u0014�{\u0016LZ\u000f5P�;!���~�P �05)���|,㯛\u0004I��\u0007A#�T����7N�Ђ\u001bZfn��Y��V��Z|kM�up��d����X�+)�\u0017�i�\u0011\u0013�X��#c�ɂ�\u001d�\u0007a�b�n�Mብ-�Ui)%ZW-iB\u001fP�^�h\u0000pR��3?\u0018}A�F���$�]��\u001a�F\u0016l�,jd��VFG�UT�u8��#\r㞇p��N\u001clMZ�\u0010�k��H-�X�F\u0010��ό� \u00194��\\��!^\u0018�ˬr���\u0012t\u000f�\r�1�vD�d\u0004��\u0016��v똄M��r,Ut}��dv�|qK���luxƌӮGз�\u0015�&\u0013|m}q��-��de���;*z\u0000\u001a��B���]�eKPz\u0010P�6c�,�E��#\u0011T\u001e]���OB��ʥ�4�e\u001d���\r�A5��g�D\u0004�e�A��\u0003��\r���7���؃\u0012c^��\u0014S\u0015�c�t\u0014���J�(�AV%ri��W��\u0011��:R��\u000b�,.\u0011�8�\u0013�\u001e�W���;h���b0L �x�s;�%W]��W>)as\u0019��p��P\u0012��z����\tk]�r�����;�U2�>����'A^\u0014��}�3�S=�_���\u0000i\u001a��:�\u0013;�\u001eɚ7\u0015�\u0006I\u0017o�D���mj�!����ʕ��?��cTc�L6Zeį��=�\u001d(>�9��]�D'�:h\u001c^\u0015�h�\f\u0007�y燓)�WY�\u0019��\u0002(|���5 _\u0004�\u001d{e��n��YL�\u0015G�\u001e�}1�V������\u0011.J�\u0003I>��$r���\u001a�2V��LTj9k�Cv\u001d\u001b���W�A�����i�y�\"�Bv^D��ˣ\u0014\u001fl�\u0010��e��aU5�\"_�i�\ru�B>��\u001f{g\u001c\u000e�l,���} �j�\u0017���p�\u0017�鎪\u0017���ۍ�q�O�a�+\u0010\u0005�8��\bʳR�(\u0013\u0011���뚪\\)\u0012�U�{�g�3��%0��\u0014�\u0001�KyQ�\u000e���k��\n��\u0010�j\t�/\u0002�^����jI�T1�Q�3�95�,��3Cg>eJj:!����[\u0005����v�\u0005\u000eV\\���\u00166�jx]R��#��J`�\u0013r�\u001d��\\a\t{�(���\u000f[�����\u000b^\"g�}�:���\r\u001ex�w\n\u001ck��\u0007��-�0�;�M>ӽ���9r)dY\u0015}�s�J��2х�MgM� a�\u0013etɗh�a�yFRo3蛵4B\u000690�\u001e\u0013�=�I�}q�#Ѐu5�_w\u000b�\u001azf_\"#f�4fv\u0010��=�j�1\u0006���\u001f������P��)��ovʖ^\u0001=�ch݅��{\u0013�Ϲ�J\u001cu\u0019�-+\u0000��8�\u000e��f\u001c���*�\u001f( �1O\u00058}\u000e�\u001dڌ�e�}�ک\u0010�\u001cx��2�1�\u001c��n�_�_�\u0016հ{)\u0004\u0007*w�3�\u0018;�w=�4���*)]q�L�"
+    },
+    {
+      "url": "https://api.fpjs.io/?ci=js/4.1.6&q=bYngJqyRNqwrfbXptlan [RESP]",
+      "postData": "{\"requestId\":\"local-1793453568482\",\"visitorId\":\"local-vid-0000\",\"confidence\":{\"score\":1},\"products\":{}}"
+    }
+  ],
+  "requests": [
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://fpjscdn.net/v4/bYngJqyRNqwrfbXptlan"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://api.fpjs.io/xridvya/qAo6p?q=bYngJqyRNqwrfbXptlan"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://api.fpjs.io/?ci=js/4.1.6&q=bYngJqyRNqwrfbXptlan"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "clean": {
+    "label": "clean",
+    "visitorId": "SO22bXJzkmCItm0BYYzJ",
+    "eventId": "1793453802602.OCWe40",
+    "suspectScore": 37,
+    "sealed": false
+  },
+  "tamperA": {
+    "label": "tamper-ua-screen",
+    "visitorId": "D4m9xkMf0RwGUp1SNP7T",
+    "eventId": "1793453803627.OchpsS",
+    "suspectScore": 51,
+    "sealed": false
+  }
+}

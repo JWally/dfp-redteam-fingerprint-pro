@@ -1,0 +1,13 @@
+{
+  "state": {
+    "err": "Error: page.evaluate: SecurityError: Failed to read the 'cookie' property from 'Document': Access is denied for this document.\n    at eval (eval at ev"
+  },
+  "posts": [],
+  "requests": [
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://fpjscdn.net/v4/bYngJqyRNqwrfbXptlan"
+    }
+  ]
+}

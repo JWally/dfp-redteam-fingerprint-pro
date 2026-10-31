@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-fingerprint-pro",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Fingerprint Pro live-key red team: real visitor_id minted, encrypted P0 request envelope captured (multi-layer: per-signal keys + Al XOR + self-XOR), tamper differential proves server accepts changed signals -> fresh synthetic identity; specific ID server-owned (authorized, own account, 2026-10-31)",
+  "scripts": { "probe": "node scripts/fp-probe5.mjs", "tamper": "node scripts/fp-tamper.mjs", "hook": "node scripts/fp-al-hook4.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

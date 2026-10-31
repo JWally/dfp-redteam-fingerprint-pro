@@ -1,0 +1,20 @@
+{
+  "r": {
+    "hasGlobal": false,
+    "keys": null,
+    "err": "no FingerprintJS.load"
+  },
+  "state": {
+    "cookies": [
+      ""
+    ]
+  },
+  "posts": [],
+  "requests": [
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://fpjscdn.net/v4/bYngJqyRNqwrfbXptlan"
+    }
+  ]
+}
