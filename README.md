@@ -91,8 +91,7 @@ Reproduce it yourself:
 python3 scripts/demo-fp.py artifacts/plaintext/shipped-payload-plaintext.json
 ```
 
-The full plaintext JSON is also at
-`artifacts/plaintext/shipped-payload-plaintext.json`.
+The full plaintext JSON is also at [shipped-payload-plaintext.json](artifacts/plaintext/shipped-payload-plaintext.json).
 [Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-fingerprint-pro/main/assets/videos/full-payload-demo.mp4)
 
 ## Files
