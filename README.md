@@ -76,6 +76,20 @@ reading/tampering the payload changes inputs, not the trust decision.
 - 🟢 Tamper with payload: every signal editable before sealing; different accepted visitor_id proven
 - 🔴 Mint token: identity is server-computed + signed; not client-mintable
 
+## Demo video — the full shipped payload
+
+`assets/videos/full-payload-demo.mp4` — a terminal-capture video of
+`scripts/demo-fp.py` printing the **complete 153-key shipped payload**
+(9,401 B, captured at the `QK` seal boundary from the live loader, no
+truncation). Reproduce it yourself:
+
+```bash
+python3 scripts/demo-fp.py artifacts/plaintext/shipped-payload-plaintext.json
+```
+
+The full plaintext JSON is also at
+`artifacts/plaintext/shipped-payload-plaintext.json`.
+
 ## Files
 
 - `scripts/fp-plain5.mjs` — the QK-boundary plaintext capture harness
