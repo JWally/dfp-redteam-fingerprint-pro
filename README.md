@@ -78,10 +78,14 @@ reading/tampering the payload changes inputs, not the trust decision.
 
 ## Demo video — the full shipped payload
 
-`assets/videos/full-payload-demo.mp4` — a terminal-capture video of
-`scripts/demo-fp.py` printing the **complete 153-key shipped payload**
-(9,401 B, captured at the `QK` seal boundary from the live loader, no
-truncation). Reproduce it yourself:
+**Watch the capture** (terminal capture of `scripts/demo-fp.py` printing the
+complete 153-key / 9,401 B plaintext payload, no truncation):
+
+<img src="assets/videos/full-payload-demo.gif" width="720" alt="Fingerprint Pro full payload demo" />
+
+<video controls preload="metadata" width="720"><source src="assets/videos/full-payload-demo.mp4" type="video/mp4"></video>
+
+Reproduce it yourself:
 
 ```bash
 python3 scripts/demo-fp.py artifacts/plaintext/shipped-payload-plaintext.json
@@ -89,6 +93,7 @@ python3 scripts/demo-fp.py artifacts/plaintext/shipped-payload-plaintext.json
 
 The full plaintext JSON is also at
 `artifacts/plaintext/shipped-payload-plaintext.json`.
+[Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-fingerprint-pro/main/assets/videos/full-payload-demo.mp4)
 
 ## Files
 
